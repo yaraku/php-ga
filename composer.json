@@ -1,0 +1,9 @@
+{
+    "name": "united-prototype/php-ga",
+    "autoload": {
+        "psr-4": {
+            "UnitedPrototype\\GoogleAnalytics\\": "src/"
+        }
+    },
+    "require": {}
+}
